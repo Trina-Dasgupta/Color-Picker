@@ -1,2 +1,1 @@
-# Color-Picker
-This website is made with svelte.
+##This is the color saver app made by svelte
